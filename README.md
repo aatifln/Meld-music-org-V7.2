@@ -61,3 +61,13 @@ This project is currently under development. Licensing details will be updated i
 ---
 
 Meldcc v7.2 — Music, uninterrupted.
+
+👤 Creator Background
+
+Full Name: aatifbinjaffer
+Email: aatifbinjaffer0@gmail.com
+Profile: Learner
+
+Aatif is an independent developer and learner focused on building practical, code-based applications. Meldcc represents an effort to create a clean, ad-free music experience while continuously learning and improving through real-world development.
+
+Driven by curiosity and a passion for technology, the project reflects a commitment to simplicity, functionality, and ongoing refinement.
